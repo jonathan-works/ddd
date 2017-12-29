@@ -1,2 +1,0 @@
-# ddd
-DDD Architecture model

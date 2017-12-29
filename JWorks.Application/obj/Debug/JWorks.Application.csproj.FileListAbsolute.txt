@@ -1,0 +1,6 @@
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Application\bin\Debug\JWorks.Application.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Application\bin\Debug\JWorks.Application.pdb
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Application\obj\Debug\JWorks.Application.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Application\obj\Debug\JWorks.Application.csproj.CoreCompileInputs.cache
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Application\obj\Debug\JWorks.Application.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Application\obj\Debug\JWorks.Application.pdb

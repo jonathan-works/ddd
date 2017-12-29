@@ -1,0 +1,13 @@
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\JWorks.Infra.Data.dll.config
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\JWorks.Infra.Data.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\JWorks.Infra.Data.pdb
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\EntityFramework.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\JWorks.Domain.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\JWorks.Domain.pdb
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\EntityFramework.xml
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\obj\Debug\JWorks.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\obj\Debug\JWorks.Infra.Data.csproj.CoreCompileInputs.cache
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\obj\Debug\JWorks.Infra.Data.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Infra.Data\obj\Debug\JWorks.Infra.Data.pdb

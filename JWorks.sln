@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWorks.UI.Site", "JWorks.UI.Site\JWorks.UI.Site.csproj", "{2CACC3B3-4E23-434F-A2B0-15C04F463D3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWorks.UI.Site", "JWorks.UI.Site", "{1DAA6C0F-B835-4E4B-8FFB-02ADF984027B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWorks.Domain", "JWorks.Domain", "{44263E39-DB7E-4EBF-9A58-1DEDCA0FECFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWorks.Application", "JWorks.Application", "{B777282B-B786-4464-90E8-CEFEB4DA1B7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWorks.Infra.Data", "JWorks.Infra.Data", "{94CDDAE7-DAC7-48E7-8AB8-9D3E93A5A4E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWorks.Application", "JWorks.Application\JWorks.Application.csproj", "{6E204F90-21B9-482E-8201-1E181B2C1739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWorks.Domain", "JWorks.Domain\JWorks.Domain.csproj", "{813F5826-0F8B-440B-B7E7-5794AD467CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWorks.Infra.Data", "JWorks.Infra.Data\JWorks.Infra.Data.csproj", "{6B184359-BAD3-4BBD-8742-41270D15700F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CACC3B3-4E23-434F-A2B0-15C04F463D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CACC3B3-4E23-434F-A2B0-15C04F463D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CACC3B3-4E23-434F-A2B0-15C04F463D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CACC3B3-4E23-434F-A2B0-15C04F463D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E204F90-21B9-482E-8201-1E181B2C1739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E204F90-21B9-482E-8201-1E181B2C1739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E204F90-21B9-482E-8201-1E181B2C1739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E204F90-21B9-482E-8201-1E181B2C1739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813F5826-0F8B-440B-B7E7-5794AD467CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813F5826-0F8B-440B-B7E7-5794AD467CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813F5826-0F8B-440B-B7E7-5794AD467CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813F5826-0F8B-440B-B7E7-5794AD467CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B184359-BAD3-4BBD-8742-41270D15700F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B184359-BAD3-4BBD-8742-41270D15700F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B184359-BAD3-4BBD-8742-41270D15700F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B184359-BAD3-4BBD-8742-41270D15700F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2CACC3B3-4E23-434F-A2B0-15C04F463D3E} = {1DAA6C0F-B835-4E4B-8FFB-02ADF984027B}
+		{6E204F90-21B9-482E-8201-1E181B2C1739} = {B777282B-B786-4464-90E8-CEFEB4DA1B7E}
+		{813F5826-0F8B-440B-B7E7-5794AD467CE8} = {44263E39-DB7E-4EBF-9A58-1DEDCA0FECFA}
+		{6B184359-BAD3-4BBD-8742-41270D15700F} = {94CDDAE7-DAC7-48E7-8AB8-9D3E93A5A4E4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5F5416-EB82-4AE1-A673-3B2CAA7FA5E5}
+	EndGlobalSection
+EndGlobal

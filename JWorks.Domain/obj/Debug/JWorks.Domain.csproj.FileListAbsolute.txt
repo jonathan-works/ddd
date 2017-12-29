@@ -1,0 +1,6 @@
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Domain\bin\Debug\JWorks.Domain.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Domain\bin\Debug\JWorks.Domain.pdb
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Domain\obj\Debug\JWorks.Domain.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Domain\obj\Debug\JWorks.Domain.csproj.CoreCompileInputs.cache
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Domain\obj\Debug\JWorks.Domain.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\JWorks\JWorks.Domain\obj\Debug\JWorks.Domain.pdb

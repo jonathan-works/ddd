@@ -1,13 +1,13 @@
 # ddd
-DDD Architecture - Domain Driven Design (4 Layers)
+DDD Architecture - Domain Driven Design (4 Layers)<br>
 SOLID e Clean Code
 
 
-Technologies / Implemented Resources
+Technologies / Implemented Resources<br>
 
--> ASP.NET Framework 
--> ASP.NET MVC 
+-> ASP.NET Framework <br>
+-> ASP.NET MVC <br>
 -> Entity Framework => DataBase First <br>
--> AutoMapper <br/>
+-> AutoMapper <br>
 -> Repository e Generic Repository
 

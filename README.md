@@ -7,14 +7,7 @@ Technologies / Implemented Resources
 
 -> ASP.NET Framework 
 -> ASP.NET MVC 
--> Entity Framework => DataBase First
--> AutoMapper
+-> Entity Framework => DataBase First <br>
+-> AutoMapper <br/>
 -> Repository e Generic Repository
 
-Arquitetura completa com separação de responsabilidades, SOLID e Clean Code
-
--> DDD – Domain Driven Design
--> Domain Events
--> Domain Notifications
--> CQRS (Com consistência imediata)
--> Event Sourcing
